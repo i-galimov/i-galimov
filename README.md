@@ -48,7 +48,7 @@
 <br>
 
 <div id="header4">
-  <b>✨Welcome to my GitHub profile!✨</b>
+  <b>✨Thank you for your attention!✨</b>
 </div>
 
 <br>
