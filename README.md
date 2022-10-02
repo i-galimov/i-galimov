@@ -1,7 +1,10 @@
+<div id="header1" align="center">
+  <b>Hi there. My namy is Ilshat! 👋</b>
+</div>
+
 #### Hi there. My namy is Ilshat! 👋
 
 <div id="header" align="center">
-  #### Hi there. My namy is Ilshat! 👋
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
