@@ -39,6 +39,7 @@
 
 <div align="center">
   <b>:fire: My Stats:</b>
+  <img src="(http://github-readme-streak-stats.herokuapp.com?user=i-galimov&theme=dark&background=000000"/>
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-galimov&theme=dark&background=000000)](https://git.io/streak-stats)
