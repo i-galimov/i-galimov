@@ -3,7 +3,7 @@
 </div>
 
 <div id="header2">
-  <b>⚡ I am Web-Developer. 💬 You can text me on <a href="https://t.me/int_kzn">Telegram</a>.</b>
+  <b>⚡ I am Web-Developer. 💬 You can text me on <a href="https://t.me/int_kzn">Telegram</a>. :computer: My <a href="https://ilshat.site">Website</a>.</b>
 </div>
 
 <div id="header3">
