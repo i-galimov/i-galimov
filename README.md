@@ -31,10 +31,3 @@
   <img src="https://komarev.com/ghpvc/?username=i-galimov&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 🔭 I’m currently working on web-sites.
-- 🌱 I’m currently learning Python, Go, PHP.
-- 💬 Ask me about my live!
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
