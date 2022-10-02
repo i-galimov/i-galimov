@@ -7,7 +7,7 @@
 </div>
 
 
-**i-galimov/i-galimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+✨**Welcome to my GitHub profile!**✨ 
 
 - 🔭 I’m currently working on web-sites.
 - 🌱 I’m currently learning Python, Go, PHP.
