@@ -37,6 +37,16 @@
 
 <br>
 
+<div align="center">
+  <b>:fire: My Stats:</b>
+</div>
+
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-galimov&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+
+<br>
+
 <div id="header4" align="center">
   <b>✨Welcome to my GitHub profile!✨</b>
 </div>
