@@ -18,6 +18,9 @@
   <b>:hammer_and_wrench: Languages and Tools:</b>
 </div>
 
+<div>
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
