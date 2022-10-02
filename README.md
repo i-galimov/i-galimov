@@ -1,5 +1,7 @@
 <div id="header1" align="center">
-  <b>Hi! I am Ilshat Galimov. 👋</b>
+  <b>Hi! My name is Ilshat. 👋</b>
+  <b>⚡ I am Web-Developer. 💬 You can write to me on <a href="https://t.me/int_kzn">Telegram</a>.</b>
+  <b>✨Welcome to my GitHub profile!✨</b>
 </div>
 
 <div id="header" align="center">
