@@ -18,14 +18,18 @@
   <b>✨Welcome to my GitHub profile!✨</b>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/int_kzn">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+   <a href="https:iamgalimov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
+  </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=i-galimov&style=flat-square&color=blue" alt=""/>
-
+<div id="footer" align="center">
+  <img src="https://komarev.com/ghpvc/?username=i-galimov&style=flat-square&color=blue" alt=""/>
+</div>
 
 - 🔭 I’m currently working on web-sites.
 - 🌱 I’m currently learning Python, Go, PHP.
