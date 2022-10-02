@@ -1,8 +1,6 @@
 <div id="header1" align="center">
-  <b>Hi there. My namy is Ilshat! 👋</b>
+  <b>Hi! I am Ilshat Galimov. 👋</b>
 </div>
-
-#### Hi there. My namy is Ilshat! 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
