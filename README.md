@@ -41,7 +41,7 @@
   <b>:fire: My Stats:</b>
 </div>
 
-|:[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-galimov&theme=dark&background=000000)](https://git.io/streak-stats):|
+p=.[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-galimov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br>
 
