@@ -41,6 +41,7 @@
   <b>✨Welcome to my GitHub profile!✨</b>
 </div>
 
+<br>
 
 <div id="badges" align="center">
   <a href="https://t.me/int_kzn">
