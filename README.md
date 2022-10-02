@@ -1,9 +1,9 @@
 <div id="header1" align="center">
-  <b>Hi! My name is Ilshat. 👋</b>
+  <b>👋 Hi! My name is Ilshat. 👋</b>
 </div>
 
 <div id="header2" align="center">
-  <b>I am Web-Developer. ⚡  You can write to me on <a href="https://t.me/int_kzn">Telegram</a>. 💬</b>
+  <b>⚡ I am Web-Developer. 💬 You can write to me on <a href="https://t.me/int_kzn">Telegram</a>.</b>
 </div>
 
 <div id="header3" align="center">
