@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <b>:hammer_and_wrench: Languages and Tools</b>
+  <b>:hammer_and_wrench: Languages and Tools:</b>
 </div>
 
 <div align="center">
