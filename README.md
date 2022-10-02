@@ -22,7 +22,7 @@
   <a href="https://t.me/int_kzn">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-   <a href="https:iamgalimov@gmail.com">
+   <a href="mailto:iamgalimov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
 </div>
