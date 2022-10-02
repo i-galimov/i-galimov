@@ -1,12 +1,12 @@
-<div id="header1" align="center">
+<div id="header1">
   <b>👋 Hi! My name is Ilshat. 👋</b>
 </div>
 
-<div id="header2" align="center">
+<div id="header2">
   <b>⚡ I am Web-Developer. 💬 You can write to me on <a href="https://t.me/int_kzn">Telegram</a>.</b>
 </div>
 
-<div id="header3" align="center">
+<div id="header3">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
@@ -16,13 +16,13 @@
 
 <br>
 
-<div align="center">
+<div>
   <b>:hammer_and_wrench: Languages and Tools:</b>
 </div>
 
 <br>
 
-<div align="center">
+<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg"  title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
@@ -45,13 +45,13 @@
 
 <br>
 
-<div id="header4" align="center">
+<div id="header4">
   <b>✨Welcome to my GitHub profile!✨</b>
 </div>
 
 <br>
 
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://t.me/int_kzn">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -60,7 +60,7 @@
   </a>
 </div>
 
-<div id="footer" align="center">
+<div id="footer">
   <img src="https://komarev.com/ghpvc/?username=i-galimov&style=flat-square&color=blue" alt=""/>
 </div>
 
