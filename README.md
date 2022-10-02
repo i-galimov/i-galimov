@@ -37,11 +37,11 @@
 
 <br>
 
-<div align="center">
+<div>
   <b>:fire: My Stats:</b>
 </div>
 
-p=.[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-galimov&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=i-galimov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <br>
 
