@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there. My namy is Ilshat! 👋
 
-<!--
-**i-galimov/i-galimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+**i-galimov/i-galimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+
+- 🔭 I’m currently working on web-sites.
+- 🌱 I’m currently learning Python, Go, PHP.
+- 💬 Ask me about my live!
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
