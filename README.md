@@ -1,5 +1,5 @@
 <div id="header1">
-  <b>👋 Hi! My name is 🅸🅻🆂🅷🅰🆃. 👋</b>
+  <b>👋 Hi! My name is 🅸🅻🆂🅷🅰🆃.</b>
 </div>
 
 <div id="header2">
